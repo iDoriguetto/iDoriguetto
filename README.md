@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iDoriguetto. I am 21 years old and a student of Analysis and Systems Development at Instituto Federal de Góias, in Brazil.
-- 👀 I'm interested in everything that is programming something. I like learn new things and help people.
+- 👀 I'm interested in everything that is programming something (GAMES?YES!), learn new things and help people.
 - 🌱 I’m currently learning wordpress and front-end web design.
 
 <!---
